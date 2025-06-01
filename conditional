@@ -1,0 +1,8 @@
+a=int(input("enter you age: "))
+if(a>18):
+    print("welcome to adulthood.")
+
+else:
+    print("enjoy you have time.")
+
+print("end of program. ")
