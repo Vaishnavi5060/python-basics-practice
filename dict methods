@@ -1,0 +1,11 @@
+marks={
+    "vaishnavi":100,
+    "omkar":50,
+    "abc":34
+}
+print(marks.items())
+print(marks.keys())
+print(marks.update({"vaishnavi":45,"renuka":34}))
+print(marks.get("vaishnavi"))
+marks.clear()
+print(marks)
