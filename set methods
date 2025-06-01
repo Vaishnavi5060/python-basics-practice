@@ -1,0 +1,9 @@
+e=set()
+d={3,6,5,3,2,4,"vaish"}
+#print(d)
+#d.add(45)
+#d.update({"vaishnavi":34,"renuka":67})
+#d.get("vaishn")
+d.remove(4)
+print(len(d))
+print(d,type(d))
