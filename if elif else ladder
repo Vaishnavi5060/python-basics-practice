@@ -1,0 +1,12 @@
+a=int(input("enter you age: "))
+if(a>18):
+    print("welcome to adulthood.")
+elif(a<0):
+    print("you are entering wrong age.")
+elif(a==0):
+    print("wrong input. ")
+
+else:
+    print("enjoy you have time.")
+
+print("end of program. ")
