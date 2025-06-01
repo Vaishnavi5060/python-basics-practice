@@ -1,0 +1,4 @@
+s1={3,654,4,4,5}
+s2={45,6,2,4,33}
+print(s1.union(s2))
+print(s1.intersection(s2))
